@@ -1,0 +1,1 @@
+php artisan voyager:admin your@email.com --create
